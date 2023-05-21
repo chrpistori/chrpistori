@@ -3,6 +3,7 @@
 <p align="left">
 <img height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/kotlin_logo.png" title="Kotlin" alt="Kotlin" /></code>
+<img height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/csharp-original.svg" title="C#" alt="C#" /></code>
 <img height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/nodejs.png" title="Node JS" alt="Node JS">
 <img width="25" height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/javascript-original.svg" title="JavaScript" alt="JavaScript" />
 <img width="25" height="25" src="https://github.com/chrpistori/chrpistori/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
