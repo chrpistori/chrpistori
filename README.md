@@ -18,12 +18,18 @@
 </p>
 
 
+### ⚡ Technologies Stats</b></summary>
+
+<div align=center>
+<a href="https://github.com/chrpistori">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrpistori&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrpistori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ### Let's connect? 🤝
 
 <p align="left">
-
 <a href="https://linkedin.com/in/chrpistori/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/chrpistori.svg?style=social&label=Follow)](https://github.com/chrpistori?tab=followers)
-</a>
-
 </p>
