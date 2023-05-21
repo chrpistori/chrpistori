@@ -25,9 +25,6 @@
 
 <a href="https://linkedin.com/in/chrpistori/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/chrpistori.svg?style=social&label=Follow)](https://github.com/chrpistori?tab=followers)
-<a href="https://hub.docker.com/u/leandrocgsi/"><img src="https://img.shields.io/badge/DockerHub-leandrocgsi-blue"/></a>
-<a href="https://stackoverflow.com/users/4784591/leandro-costa">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-31-F47F24">
 </a>
 
 </p>
